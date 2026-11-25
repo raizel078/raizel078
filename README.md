@@ -1,4 +1,4 @@
-![Sunil Poudel — Bring the mess. I'll build the plan.](./header.svg)
+![Sunil Poudel — Bring the mess. I'll build the plan.](./banner.svg)
 
 <div align="center">
 
