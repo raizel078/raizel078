@@ -1,44 +1,55 @@
-<h1 align="center">Hi, I'm Sunil Poudel 👋</h1>
-<p align="center"><em>Project manager by profession · Builder by curiosity</em></p>
+![Sunil Poudel — Bring the mess. I'll build the plan.](./header.svg)
 
-<p align="center">
-  <a href="https://sooneel.dev">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/poudelsunil078/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://people.bayt.com/sunil-poudel-70216466/">Bayt</a> &nbsp;·&nbsp;
-  <a href="mailto:poudelsunil078@gmail.com">Email</a>
-</p>
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a1a3f?style=for-the-badge&logo=vercel&logoColor=ffd23f)](https://sooneel.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1a3f?style=for-the-badge&logo=linkedin&logoColor=eaf0ff)](https://www.linkedin.com/in/poudelsunil078/)
+[![Bayt](https://img.shields.io/badge/Bayt-0a1a3f?style=for-the-badge&logo=readdotcv&logoColor=ffd23f)](https://people.bayt.com/sunil-poudel-70216466/)
+[![Email](https://img.shields.io/badge/Email-0a1a3f?style=for-the-badge&logo=gmail&logoColor=ff5a4e)](mailto:poudelsunil078@gmail.com)
 
-### About me
+</div>
+
+## `// whoami`
+
+I run projects for a living and build software because I can't help it.
+
 - 🏥 **Project Manager** at Abdal Human Resource, Riyadh — medical staffing & operations
-- 🧠 Self-taught developer — I learn by building: Python, backend & computer vision
-- 🎯 Working toward **AI / ML engineering**
-- 🌍 Based in Riyadh · 🇳🇵 Nepali · English, Hindi, Arabic & some Korean
+- 🧩 I take messy briefs and turn them into **owned, dated plans** — people, process, delivery
+- 🧠 Self-taught developer — Python, backend & computer vision, learning by shipping
+- 🎯 Heading toward **AI / ML engineering**
+- 🌍 Riyadh · 🇳🇵 Nepali · English · Hindi · Arabic · a little Korean
 
-### Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## `// the stack`
 
-### Featured projects
-- 🏥 **[Abdal Medical Staffing](https://abdalnurse.sooneel.dev)** — live nurse-availability portal on Notion data
-- 🧾 **[CaseTracker](https://github.com/raizel078/CaseTracker)** — desktop app to follow up cases & stats
-- 🛂 **[Alice Travel Scanner](https://github.com/raizel078/Alicetravel)** — passport scanning tool
-- 🚗 **[Plate Detection](https://github.com/raizel078/NumberPlatedetection)** — automatic number-plate recognition
-- 🧍 **[Face Attendance](https://github.com/raizel078/Face-attandace-sheet)** — attendance via face recognition
+![Python](https://img.shields.io/badge/Python-0a1a3f?style=flat-square&logo=python&logoColor=ffd23f)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1a3f?style=flat-square&logo=fastapi&logoColor=ffd23f)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1a3f?style=flat-square&logo=pytorch&logoColor=ff5a4e)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a1a3f?style=flat-square&logo=opencv&logoColor=ff5a4e)
+![SQLite](https://img.shields.io/badge/SQLite-0a1a3f?style=flat-square&logo=sqlite&logoColor=8fc6ff)
+![Git](https://img.shields.io/badge/Git-0a1a3f?style=flat-square&logo=git&logoColor=ff5a4e)
+![Linux](https://img.shields.io/badge/Linux-0a1a3f?style=flat-square&logo=linux&logoColor=ffd23f)
+![Next.js](https://img.shields.io/badge/Next.js-0a1a3f?style=flat-square&logo=nextdotjs&logoColor=eaf0ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a1a3f?style=flat-square&logo=tailwindcss&logoColor=8fc6ff)
 
-### GitHub stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raizel078&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raizel078&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raizel078&hide_border=true&theme=tokyonight" />
-</p>
+## `// the build`
+
+| | Project | What it is |
+|---|---|---|
+| 🏥 | **[Abdal Medical Staffing](https://abdalnurse.sooneel.dev)** | Live nurse-availability portal on Notion data |
+| 🧾 | **[CaseTracker](https://github.com/raizel078/CaseTracker)** | Desktop app to follow up cases & stats |
+| 🛂 | **[Alice Travel Scanner](https://github.com/raizel078/Alicetravel)** | Passport scanning tool |
+| 🚗 | **[Plate Detection](https://github.com/raizel078/NumberPlatedetection)** | Automatic number-plate recognition |
+| 🧍 | **[Face Attendance](https://github.com/raizel078/Face-attandace-sheet)** | Attendance via face recognition |
+
+## `// the numbers`
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=raizel078&show_icons=true&count_private=true&hide_border=true&title_color=ffd23f&icon_color=ff5a4e&text_color=eaf0ff&bg_color=0a1a3f)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raizel078&layout=compact&hide_border=true&title_color=ffd23f&text_color=eaf0ff&bg_color=0a1a3f)
+
+</div>
+
+<div align="center">
+<sub>Bring the mess — I'll build the plan.</sub>
+</div>
